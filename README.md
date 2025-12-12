@@ -19,3 +19,4 @@ I recently completed the Generation UK & Ireland Data Analytics programme, gaini
 
 ## Find me here:
 - [LinkedIn](https://www.linkedin.com/in/shea-pan/) 💼
+- Notion Portfolio
