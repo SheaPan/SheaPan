@@ -9,6 +9,14 @@ Excited to bring this **analytical mindset, adaptability, and curiosity** into a
 
 ## Key Skills
 
-## Find me around the web 🌍:
+- 📊 **Data Analysis** — Solving business problems through data manipulation using Excel, SQL, and Python  
+- 📈 **Data Visualisation** — Creating interactive dashboards and insightful reports with Power BI, Tableau, and Excel  
+- 🖥️ **Microsoft Office** — Advanced Excel, Word, PowerPoint; certified in Microsoft PL-900  
+- 🔍 **Marketing Research** — Collecting and interpreting market data to uncover consumer insights  
+- 🗣️ **Communication** — Strong presentation and collaboration skills across B2B and B2C contexts  
+- 🚀 **Proactivity** — Self-driven learner actively seeking solutions and improving technical skills  
+- 🌍 **Bilingual** — Fluent in English and Chinese (Mandarin)
+
+
+## Find me here:
 - [LinkedIn](https://www.linkedin.com/in/shea-pan/) 💼
-- 
