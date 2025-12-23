@@ -1,7 +1,7 @@
 ## Hi, I'm Shea 👋
 
 ![Shea](./pic.jpg)
-I’m a marketing professional transitioning into **data analysis**, driven by a passion for turning raw data into **meaningful insights** that guide **business decisions**. 
+I’m a **data analyst** driven by a passion for turning raw data into** meaningful insights** that shape **business strategy**. 
 
 Over the past **four years**, I’ve led cross-industry projects in **user behaviour analysis**, **ad performance tracking**, and **inventory modelling**, delivering results such as a **113% increase** in followers and an **80% reduction in waste**. 
 
